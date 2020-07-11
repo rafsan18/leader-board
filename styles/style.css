@@ -1,0 +1,49 @@
+body {
+  background-color: #f3f1ff;
+}
+main {
+  max-width: 870px;
+}
+h3 {
+  color: #562eff;
+  padding: 20px;
+}
+
+.navbar img {
+  width: 40px;
+}
+.player img {
+  width: 56px;
+}
+#blogs img {
+  width: 177px;
+  height: 117px;
+}
+.blog-title {
+  padding-left: 15px;
+}
+hr {
+  background-color: #d1d1d1;
+  margin-bottom: 0;
+}
+.card {
+  box-shadow: 10px 10px 15px gray;
+  border-radius: 15px;
+  overflow: hidden;
+}
+.card-footer {
+  background-color: #ffffff;
+  border: none;
+}
+.checked {
+  color: #ffc014;
+}
+
+.time {
+  width: 94px;
+  text-align: center;
+  color: #ff4a60;
+  background-color: #ffe4e8;
+  border-radius: 15px;
+  padding: 4px;
+}
